@@ -12,7 +12,7 @@ export function Stats() {
         className="max-w-7xl mx-auto"
       >
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
-          {STATS.map((stat, index) => {
+          {STATS.map((stat) => {
             const { ref, value } = useCounter(stat.target || 0, 2)
             
             return (
