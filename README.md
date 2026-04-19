@@ -111,13 +111,7 @@ Optimisations:
 
 ---
 
-## AI Tools Used
 
-| Tool | How Used |
-|------|----------|
-| Claude (Anthropic) | Architecture design, full component generation, TypeScript typing, README writing, prompt engineering |
-
----
 
 ## What I Would Improve With More Time
 
